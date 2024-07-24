@@ -54,4 +54,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 If you find this project helpful and would like to support its development, please consider donating to my TON wallet:
 
-![enter image description here](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEUAmOoAl+oAluoAkukwouxfsO5Bpu0AkOm93ff////Z6/sAlOl4u/Hz+f6jz/Wu1fYAiOchnesAjuiVyfPT6PqFwfLv9/2s1PaOxfNYru7p8/zK4/lIqe1uuPA+261HAAAAt0lEQVR4AcWQRYLDMBDADO1O1TDz/7+5Yc65MlvGUT9Emz1HZ1/vHX+yd/LhwNfZnHHBG1gbf7NOwCcUkRCiuG8SUrvtzMBopQReQ5NTbDuHYWAX6ZSg9Sad9zA9Se1A6Ryem5LKJG1BLscYvKAygzQRvB11wAbU8SClGc44oh3I4l6204uPOBleCOo7vPuC1LjQgaOv0lTkUJM56gZpoLei7tARQGXULdaHRtQDNifS6tHawf2Uf3bGCZjWcksUAAAAAElFTkSuQmCC) TON Wallet Address: UQBlMyqeA5PKhxO4_2PWInZj-GHKrdJQ9h7avUyOnu6V0ZzJ
+TON Wallet Address: UQBlMyqeA5PKhxO4_2PWInZj-GHKrdJQ9h7avUyOnu6V0ZzJ
