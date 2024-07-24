@@ -1,1 +1,7 @@
-
+mss==6.1.0
+opencv-python==4.5.3.56
+numpy==1.21.1
+keyboard==0.13.5
+pygetwindow==0.0.9
+pywinauto==0.6.8
+pywin32==301
